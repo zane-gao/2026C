@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large files and archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# specific large folders (uncomment to ignore)
+# code/task1/outputs/
+# 题目和资料/
+
+_archive/

@@ -1,0 +1,7 @@
+﻿numpy
+pandas
+pymc
+arviz
+pytensor
+pyyaml
+matplotlib

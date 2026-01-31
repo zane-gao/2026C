@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "loglik_mode": "fast",
+    "fast_model": true
+  },
+  "data": {
+    "max_week": 11
+  },
+  "inference": {
+    "method": "vi",
+    "vi_iters": 5000,
+    "draws": 500,
+    "progress_interval": 500,
+    "log_interval_sec": 30,
+    "progressbar": true,
+    "pytensor_flags": "optimizer=fast_compile,exception_verbosity=low"
+  }
+}

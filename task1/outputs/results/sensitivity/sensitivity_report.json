@@ -1,0 +1,46 @@
+{
+  "total_experiments": 24,
+  "total_time_minutes": 10.206483817100525,
+  "parameter_grid": {
+    "epsilon": [
+      0.005,
+      0.01
+    ],
+    "tau": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "kappa": [
+      20
+    ],
+    "lambda_ent": [
+      0.0,
+      0.05,
+      0.1,
+      0.2
+    ]
+  },
+  "best_by_accuracy": {
+    "params": {
+      "epsilon": 0.01,
+      "tau": 0.2,
+      "kappa": 20.0,
+      "lambda_ent": 0.2
+    },
+    "accuracy": 0.8147603222274574,
+    "cover_at_2": 0.9218585316391331,
+    "elbo": -946.200439453125
+  },
+  "best_by_elbo": {
+    "params": {
+      "epsilon": 0.01,
+      "tau": 0.2,
+      "kappa": 20.0,
+      "lambda_ent": 0.05
+    },
+    "accuracy": 0.7891222653915111,
+    "cover_at_2": 0.9040386162587055,
+    "elbo": -834.9031372070312
+  }
+}

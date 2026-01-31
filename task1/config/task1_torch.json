@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "loglik_mode": "fast",
+    "fast_model": true
+  },
+  "data": {
+    "max_week": 11
+  },
+  "torch": {
+    "epochs": 10000,
+    "lr": 0.01,
+    "lr_min": 1e-5,
+    "warmup_epochs": 200,
+    "patience": 800,
+    "min_delta": 0.5,
+    "grad_clip": 10.0,
+    "n_samples": 1,
+    "log_interval": 100,
+    "save_interval": 1000
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "model_info": {
+    "n_seasons": 34,
+    "n_features": 28,
+    "n_posterior_samples": 200
+  },
+  "ppc_metrics": {
+    "accuracy": 0.8106060606060606,
+    "cover_at_2": 0.919,
+    "total_valid_weeks": 264,
+    "correct_predictions": 214
+  },
+  "feasibility": {
+    "mean_feasible_rate": 0.7924242424242425,
+    "min_feasible_rate": 0.0
+  },
+  "uncertainty_summary": {
+    "mean_CI_width_90": 0.253,
+    "mean_CI_width_95": 0.31,
+    "mean_entropy": 1.15
+  },
+  "files_generated": [
+    "fan_share_estimates.csv",
+    "posterior_summary.npz",
+    "ppc_metrics.json",
+    "ppc_details.csv",
+    "feasibility_metrics.json",
+    "feature_importance.csv",
+    "task1_report.json",
+    "plots/certainty_heatmap.png",
+    "plots/entropy_heatmap.png",
+    "plots/feature_forest_plot.png",
+    "plots/ppc_accuracy_by_season.png"
+  ]
+}

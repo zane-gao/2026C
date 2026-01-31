@@ -1,0 +1,41 @@
+{
+    "paths": {
+        "data_csv": "题目和资料/2026_MCM_Problem_C_Data.csv",
+        "output_dir": "outputs"
+    },
+    "data": {
+        "max_week": 5,
+        "withdrawal_policy": "exclude_only_withdrawn",
+        "multi_elim_policy": "topk"
+    },
+    "rules": {
+        "season_rules": [
+            [1, 2, "rank"],
+            [3, 27, "percent"],
+            [28, 34, "bottom2_save"]
+        ],
+        "bottom2_base": "rank",
+        "loglik_mode": "fast"
+    },
+    "hyper": {
+        "epsilon": 0.005,
+        "delta": 0.01,
+        "tau": 0.2,
+        "kappa": 20.0,
+        "kappa_r": 10.0,
+        "alpha": 0.01,
+        "kappa_b": 5.0,
+        "eta1": 2.0,
+        "eta2": 1.0,
+        "lambda_ent": 0.1
+    },
+    "inference": {
+        "vi_iters": 500
+    },
+    "torch": {
+        "epochs": 50,
+        "lr": 0.01,
+        "patience": 50,
+        "n_samples": 5
+    }
+}

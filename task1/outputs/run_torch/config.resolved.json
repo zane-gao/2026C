@@ -1,0 +1,72 @@
+{
+  "paths": {
+    "data_csv": "d:\\杂七杂八\\美赛\\2026美赛\\2026c\\题目和资料\\2026_MCM_Problem_C_Data.csv",
+    "output_dir": "d:\\杂七杂八\\美赛\\2026美赛\\2026c\\outputs"
+  },
+  "rules": {
+    "season_rules": [
+      [
+        1,
+        2,
+        "rank"
+      ],
+      [
+        3,
+        27,
+        "percent"
+      ],
+      [
+        28,
+        34,
+        "bottom2_save"
+      ]
+    ],
+    "bottom2_base": "rank",
+    "loglik_mode": "fast",
+    "fast_model": true
+  },
+  "hyper": {
+    "epsilon": 0.005,
+    "delta": 0.01,
+    "tau": 0.2,
+    "kappa": 20.0,
+    "kappa_r": 10.0,
+    "alpha": 0.01,
+    "kappa_b": 20.0,
+    "eta1": 1.0,
+    "eta2": 0.5,
+    "lambda_ent": 0.0
+  },
+  "data": {
+    "max_week": 11,
+    "withdrawal_policy": "exclude_only_withdrawn",
+    "multi_elim_policy": "topk"
+  },
+  "inference": {
+    "backend": "pymc",
+    "method": "vi",
+    "progressbar": true,
+    "progress_interval": 1000,
+    "log_file": null,
+    "log_interval_sec": 60,
+    "pytensor_flags": null,
+    "draws": 1000,
+    "tune": 1000,
+    "chains": 2,
+    "target_accept": 0.9,
+    "vi_iters": 20000,
+    "seed": 42
+  },
+  "torch": {
+    "epochs": 10000,
+    "lr": 0.01,
+    "lr_min": 1e-05,
+    "warmup_epochs": 200,
+    "patience": 800,
+    "min_delta": 0.5,
+    "grad_clip": 10.0,
+    "n_samples": 1,
+    "log_interval": 100,
+    "save_interval": 1000
+  }
+}

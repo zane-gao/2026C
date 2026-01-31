@@ -1,0 +1,70 @@
+[18:09:40] PyTorch DWTS Training
+[18:09:40] Device: cuda
+[18:09:40] ============================================================
+[18:09:40] Loading data...
+[18:09:40] Loaded 421 rows
+[18:09:40] Preprocessing...
+[18:09:41] Seasons: 34, Max contestants: 16, Max weeks: 11
+[18:09:41] Features: 28
+[18:09:41] Valid observations: 264
+[18:09:41] Building model...
+[18:09:42] Model parameters: 13,031
+[18:09:42] 
+Training Configuration:
+[18:09:42]   Max epochs: 20000
+[18:09:42]   Learning rate: 0.01 -> 1e-05 (cosine annealing)
+[18:09:42]   Warmup epochs: 200
+[18:09:42]   Early stopping: enabled (patience=1000)
+[18:09:42]   Gradient clipping: 10.0
+[18:09:42]   MC samples: 1
+[18:09:42]   Log interval: 100
+[18:09:42] 
+Starting training...
+[18:09:42] ============================================================
+[18:09:43] Epoch     1/20000 | ELBO=-10661.77 (EMA=-10661.77) | LogLik= -1329.54 | KL=9332.23 | LR=1.00e-02 | GradNorm=599.98 | Time=1s
+[18:10:10] Epoch   100/20000 | ELBO= -5174.23 (EMA= -5512.05) | LogLik=  -434.41 | KL=4739.81 | LR=5.00e-03 | GradNorm=492.84 | Time=27s
+[18:10:37] Epoch   200/20000 | ELBO= -4154.52 (EMA= -4114.42) | LogLik=  -451.59 | KL=3702.94 | LR=1.00e-02 | GradNorm=553.01 | Time=54s
+[18:11:04] Epoch   300/20000 | ELBO=  -731.98 (EMA=  -864.94) | LogLik=  -314.72 | KL= 417.26 | LR=8.54e-03 | GradNorm=181.01 | Time=81s
+[18:11:29] Epoch   400/20000 | ELBO=  -663.57 (EMA=  -621.47) | LogLik=  -397.91 | KL= 265.67 | LR=5.00e-03 | GradNorm=239.05 | Time=107s
+[18:11:56] Epoch   500/20000 | ELBO=  -590.19 (EMA=  -587.12) | LogLik=  -331.77 | KL= 258.42 | LR=1.47e-03 | GradNorm=189.87 | Time=133s
+[18:12:21] Epoch   600/20000 | ELBO=  -596.08 (EMA=  -577.91) | LogLik=  -339.68 | KL= 256.40 | LR=1.00e-02 | GradNorm=136.99 | Time=158s
+[18:12:47] Epoch   700/20000 | ELBO=  -566.48 (EMA=  -574.74) | LogLik=  -316.20 | KL= 250.28 | LR=9.62e-03 | GradNorm=171.41 | Time=185s
+[18:13:13] Epoch   800/20000 | ELBO=  -527.79 (EMA=  -575.22) | LogLik=  -291.12 | KL= 236.67 | LR=8.54e-03 | GradNorm=63.74 | Time=210s
+[18:13:43] Epoch   900/20000 | ELBO=  -545.29 (EMA=  -573.91) | LogLik=  -312.20 | KL= 233.09 | LR=6.92e-03 | GradNorm=149.54 | Time=240s
+[18:14:10] Epoch  1000/20000 | ELBO=  -528.06 (EMA=  -552.10) | LogLik=  -296.24 | KL= 231.81 | LR=5.00e-03 | GradNorm=108.16 | Time=267s
+[18:14:10]   -> Checkpoint saved at epoch 1000
+[18:14:38] Epoch  1100/20000 | ELBO=  -554.30 (EMA=  -559.10) | LogLik=  -326.62 | KL= 227.67 | LR=3.09e-03 | GradNorm=209.27 | Time=296s
+[18:15:20] Epoch  1200/20000 | ELBO=  -559.02 (EMA=  -563.91) | LogLik=  -332.80 | KL= 226.21 | LR=1.47e-03 | GradNorm=129.21 | Time=337s
+[18:16:14] Epoch  1300/20000 | ELBO=  -550.41 (EMA=  -559.48) | LogLik=  -325.65 | KL= 224.76 | LR=3.90e-04 | GradNorm=111.58 | Time=392s
+[18:17:05] Epoch  1400/20000 | ELBO=  -518.58 (EMA=  -564.10) | LogLik=  -293.93 | KL= 224.65 | LR=1.00e-02 | GradNorm=98.15 | Time=442s
+[18:17:53] Epoch  1500/20000 | ELBO= -2456.89 (EMA= -2480.12) | LogLik=  -285.25 | KL=2171.64 | LR=9.90e-03 | GradNorm=157.27 | Time=490s
+[18:18:42] Epoch  1600/20000 | ELBO= -2314.77 (EMA= -2410.64) | LogLik=  -262.49 | KL=2052.28 | LR=9.62e-03 | GradNorm=148.04 | Time=540s
+[18:19:26] Epoch  1700/20000 | ELBO= -2228.24 (EMA= -2350.63) | LogLik=  -245.95 | KL=1982.29 | LR=9.16e-03 | GradNorm=119.68 | Time=584s
+[18:20:26] Epoch  1800/20000 | ELBO= -2156.41 (EMA= -2280.57) | LogLik=  -230.76 | KL=1925.65 | LR=8.54e-03 | GradNorm=105.78 | Time=644s
+[18:21:09] Epoch  1900/20000 | ELBO= -2085.48 (EMA= -2200.90) | LogLik=  -215.33 | KL=1870.14 | LR=7.78e-03 | GradNorm=95.43 | Time=687s
+[18:21:58] Epoch  2000/20000 | ELBO= -2024.69 (EMA= -2130.61) | LogLik=  -204.73 | KL=1819.96 | LR=6.92e-03 | GradNorm=80.30 | Time=735s
+[18:21:58]   -> Checkpoint saved at epoch 2000
+[18:22:49] Epoch  2100/20000 | ELBO= -1991.17 (EMA= -2070.22) | LogLik=  -196.53 | KL=1794.64 | LR=5.98e-03 | GradNorm=66.14 | Time=786s
+[18:23:39] Epoch  2200/20000 | ELBO= -1974.71 (EMA= -2020.49) | LogLik=  -192.88 | KL=1781.83 | LR=5.00e-03 | GradNorm=57.87 | Time=837s
+[18:24:00] 
+Early stopping triggered at epoch 2242
+[18:24:00] Best ELBO was -1965.34 at epoch 2235
+[18:24:00] ============================================================
+[18:24:00] Training completed!
+[18:24:00]   Total time: 857.5s (14.3 min)
+[18:24:00]   Final epoch: 2242
+[18:24:00]   Best ELBO: -1965.34
+[18:24:00] 
+Loading best model for inference...
+[18:24:00] Extracting posterior means...
+[18:24:00] 
+Results saved to: d:\杂七杂八\美赛\2026美赛\2026c\outputs\task1\run_torch
+[18:24:00] Files:
+[18:24:00]   - best_model.pt (best checkpoint)
+[18:24:00]   - final_model.pt (final checkpoint)
+[18:24:00]   - history.npz (training history)
+[18:24:00]   - train_metrics.jsonl (real-time metrics)
+[18:24:00]   - theta_mean.npy (posterior mean)
+[18:24:00]   - posterior_params.json (key parameters)
+[18:24:00] 
+Done!
