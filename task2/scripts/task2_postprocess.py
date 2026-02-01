@@ -6,7 +6,8 @@ import numpy as np
 
 from typing import Optional
 import sys
-CODE_DIR = Path(__file__).resolve().parents[1]
+# parents[1] = task2, parents[2] = code
+CODE_DIR = Path(__file__).resolve().parents[2]
 if str(CODE_DIR) not in sys.path:
     sys.path.insert(0, str(CODE_DIR))
 

@@ -133,8 +133,9 @@ python code/scripts/task2_run_simulation.py --config code/task2/config/task2_ful
 ### 步骤 3：计算指标与出图
 
 ```bash
-python code/scripts/task2_postprocess.py --run outputs/task2/run_20260201_112324
-```
+python code/task2/scripts/task2_postprocess.py --run outputs/task2/run_20260201_112324
+
+python code/task2/scripts/task2_postprocess.py --run code/task2/outputs/run_20260201_112324
 
 输出：
 

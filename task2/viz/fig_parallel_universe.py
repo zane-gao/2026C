@@ -75,7 +75,7 @@ def plot(out_path: str | Path, data=None) -> None:
     df = pd.DataFrame(plot_data)
 
     fig, ax = plt.subplots(figsize=(12, 6))
-    sns.boxplot(data=df, x="Contestant", y="Rank", ax=ax, palette="coolwarm")
+    sns.boxplot(data=df, x="Contestant", y="Rank", hue="Contestant", ax=ax, palette="coolwarm", legend=False)
     ax.set_title(f"Parallel Universes: Rank Variability in Season {best_s+1}\n(Mechanism: {target_key[1]})")
     ax.invert_yaxis() # Rank 1 at top
     ax.grid(axis='y', linestyle='--', alpha=0.5)

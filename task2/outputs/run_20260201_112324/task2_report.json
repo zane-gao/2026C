@@ -306,7 +306,7 @@
     }
   },
   "social": {
-    "source": "2026美赛C题最新补充数据+预处理后数据！！！适合模型检验+提高结果准确度！\\2026美赛C题补充数据集！.xlsx",
+    "source": "code\\task2\\outputs\\run_20260201_112324\\social_proxy.csv",
     "n_records": 421
   }
 }
