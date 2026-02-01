@@ -1,0 +1,33 @@
+paths:
+  data_csv: raw_data/2026_MCM_Problem_C_Data.csv
+  social_data: "code/raw_data/2026\u7F8E\u8D5BC\u9898\u8865\u5145\u6570\u636E\u96C6\
+    \uFF01.xlsx"
+  enriched_path: "raw_data/2026\u7F8E\u8D5BC\u9898\u8865\u5145\u6570\u636E\u96C6\uFF01\
+    .xlsx"
+  task1_artifact: task1/outputs/run_torch
+  output_root: ../outputs/task3
+panel:
+  max_week: 11
+  use_valid_mask: true
+  exclude_post_elim_zero: true
+  ref_strategy: max_mean_F
+features:
+  include_social: true
+  include_platform: false
+  missing_as_zero: false
+  winsorize_q: null
+  week_effect: linear
+runtime:
+  seed: 42
+  num_workers: 0
+  k_subsample: 50
+  m3_k_repeats: 0
+torch:
+  enabled: true
+  device: cuda
+  batch_size: 256
+  lr: 0.01
+  max_epochs: 500
+  patience: 20
+  n_samples: 100
+  mixed_precision: true

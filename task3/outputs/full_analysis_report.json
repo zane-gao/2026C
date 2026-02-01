@@ -1,0 +1,430 @@
+{
+  "assortative_mating": {
+    "couple_Jz_Pcele_corr": 0.09075977194429712,
+    "couple_Jz_Pcele_spearman": 0.05478577180611236,
+    "pro_Jz_Pcele_corr": -0.06438046619536751,
+    "u_pro_Pcele_corr": -0.14506556345637595,
+    "u_pro_Jz_corr": 0.44663153946713713,
+    "v_celeb_Pcele_corr": -0.07580800350808858,
+    "multi_pro_count": 40,
+    "multi_pro_Jz_Pcele_corr": 0.07163613073284379
+  },
+  "rho_p": {
+    "rho_p": 0.23110623824344628,
+    "pvalue": 0.07822049237791132,
+    "ci_95": [
+      0.04823674148961548,
+      0.3963209823756856
+    ],
+    "n_pros": 59,
+    "interpretation": "Pro 在技术通道和人气通道的效应相关性"
+  },
+  "ablation": {
+    "with_social": {
+      "m1_r2": 0.6243652506599489,
+      "m1_rmse": 0.6128904819488525,
+      "m2_r2_median": 0.6467823355649724
+    },
+    "social_features": {
+      "count": 16,
+      "columns": [
+        "P_cele",
+        "P_partner",
+        "missing_cele_total",
+        "missing_partner_total",
+        "P_cele_twitter",
+        "missing_cele_twitter",
+        "P_cele_youtube",
+        "missing_cele_youtube",
+        "P_partner_twitter",
+        "missing_partner_twitter",
+        "P_partner_youtube",
+        "missing_partner_youtube",
+        "P_cele_instagram",
+        "missing_cele_instagram",
+        "P_cele_tiktok",
+        "missing_cele_tiktok"
+      ],
+      "stats": {
+        "P_cele": {
+          "mean": 13.090756143287575,
+          "std": 1.667462684534735,
+          "coverage": 0.6744688512783579
+        },
+        "P_partner": {
+          "mean": 12.060883647422353,
+          "std": 1.1320342797189584,
+          "coverage": 0.5970471732084983
+        },
+        "missing_cele_total": {
+          "mean": 0.32553114872164207,
+          "std": 0.4686573507115293,
+          "coverage": 1.0
+        },
+        "missing_partner_total": {
+          "mean": 0.40295282679150163,
+          "std": 0.4905797703762529,
+          "coverage": 1.0
+        },
+        "P_cele_twitter": {
+          "mean": 12.90982793570001,
+          "std": 1.4344888021209148,
+          "coverage": 0.6658264314007922
+        },
+        "missing_cele_twitter": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.6658264314007922
+        },
+        "P_cele_youtube": {
+          "mean": 13.309208075589115,
+          "std": 1.6842180817225203,
+          "coverage": 0.14548073460568955
+        },
+        "missing_cele_youtube": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.14548073460568955
+        },
+        "P_partner_twitter": {
+          "mean": 12.040556197012847,
+          "std": 1.1104522027098624,
+          "coverage": 0.5970471732084983
+        },
+        "missing_partner_twitter": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.5970471732084983
+        },
+        "P_partner_youtube": {
+          "mean": 10.915453708106394,
+          "std": 0.9665471329452326,
+          "coverage": 0.10803024846957143
+        },
+        "missing_partner_youtube": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.10803024846957143
+        },
+        "P_cele_instagram": {
+          "mean": 16.156431059447296,
+          "std": 2.1885523982417747,
+          "coverage": 0.010803024846957165
+        },
+        "missing_cele_instagram": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.010803024846957165
+        },
+        "P_cele_tiktok": {
+          "mean": 18.18743630428531,
+          "std": 0.7007906836270601,
+          "coverage": 0.007202016564638147
+        },
+        "missing_cele_tiktok": {
+          "mean": 0.0,
+          "std": 0.0,
+          "coverage": 0.007202016564638147
+        }
+      }
+    },
+    "ablation_note": "不加社媒版本需要单独训练模型,此处提供基线对比数据"
+  },
+  "loso": {
+    "n_seasons": 34,
+    "season_stats": [
+      {
+        "season": 0,
+        "train_size": 4163,
+        "test_size": 36
+      },
+      {
+        "season": 1,
+        "train_size": 4119,
+        "test_size": 80
+      },
+      {
+        "season": 2,
+        "train_size": 4089,
+        "test_size": 110
+      },
+      {
+        "season": 3,
+        "train_size": 4089,
+        "test_size": 110
+      },
+      {
+        "season": 4,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 5,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 6,
+        "train_size": 4069,
+        "test_size": 130
+      },
+      {
+        "season": 7,
+        "train_size": 4056,
+        "test_size": 143
+      },
+      {
+        "season": 8,
+        "train_size": 4039,
+        "test_size": 160
+      },
+      {
+        "season": 9,
+        "train_size": 4089,
+        "test_size": 110
+      },
+      {
+        "season": 10,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 11,
+        "train_size": 4089,
+        "test_size": 110
+      },
+      {
+        "season": 12,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 13,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 14,
+        "train_size": 4069,
+        "test_size": 130
+      },
+      {
+        "season": 15,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 16,
+        "train_size": 4067,
+        "test_size": 132
+      },
+      {
+        "season": 17,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 18,
+        "train_size": 4056,
+        "test_size": 143
+      },
+      {
+        "season": 19,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 20,
+        "train_size": 4056,
+        "test_size": 143
+      },
+      {
+        "season": 21,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 22,
+        "train_size": 4056,
+        "test_size": 143
+      },
+      {
+        "season": 23,
+        "train_size": 4079,
+        "test_size": 120
+      },
+      {
+        "season": 24,
+        "train_size": 4069,
+        "test_size": 130
+      },
+      {
+        "season": 25,
+        "train_size": 4159,
+        "test_size": 40
+      },
+      {
+        "season": 26,
+        "train_size": 4082,
+        "test_size": 117
+      },
+      {
+        "season": 27,
+        "train_size": 4067,
+        "test_size": 132
+      },
+      {
+        "season": 28,
+        "train_size": 4034,
+        "test_size": 165
+      },
+      {
+        "season": 29,
+        "train_size": 4049,
+        "test_size": 150
+      },
+      {
+        "season": 30,
+        "train_size": 4039,
+        "test_size": 160
+      },
+      {
+        "season": 31,
+        "train_size": 4045,
+        "test_size": 154
+      },
+      {
+        "season": 32,
+        "train_size": 4082,
+        "test_size": 117
+      },
+      {
+        "season": 33,
+        "train_size": 4045,
+        "test_size": 154
+      }
+    ],
+    "note": "完整 LOSO 需要对每个 fold 重新训练模型"
+  },
+  "platform_specificity": {
+    "available_platforms": [
+      "P_cele_twitter",
+      "missing_cele_twitter",
+      "P_cele_youtube",
+      "missing_cele_youtube",
+      "P_partner_twitter",
+      "missing_partner_twitter",
+      "P_partner_youtube",
+      "missing_partner_youtube",
+      "P_cele_instagram",
+      "missing_cele_instagram",
+      "P_cele_tiktok",
+      "missing_cele_tiktok"
+    ],
+    "platform_effects": {},
+    "platform_stats": {
+      "P_cele_twitter": {
+        "mean": 12.90982793570001,
+        "std": 1.4344888021209148,
+        "missing_rate": 0.33417356859920777,
+        "n_valid": 1849
+      },
+      "P_cele_youtube": {
+        "mean": 13.309208075589115,
+        "std": 1.6842180817225203,
+        "missing_rate": 0.8545192653943104,
+        "n_valid": 404
+      },
+      "P_partner_twitter": {
+        "mean": 12.040556197012847,
+        "std": 1.1104522027098624,
+        "missing_rate": 0.40295282679150163,
+        "n_valid": 1658
+      },
+      "P_partner_youtube": {
+        "mean": 10.915453708106394,
+        "std": 0.9665471329452326,
+        "missing_rate": 0.8919697515304286,
+        "n_valid": 300
+      },
+      "P_cele_instagram": {
+        "mean": 16.156431059447296,
+        "std": 2.1885523982417747,
+        "missing_rate": 0.9891969751530428,
+        "n_valid": 30
+      },
+      "P_cele_tiktok": {
+        "mean": 18.18743630428531,
+        "std": 0.7007906836270601,
+        "missing_rate": 0.9927979834353619,
+        "n_valid": 20
+      }
+    },
+    "platform_correlations_with_Jz": {
+      "P_cele_twitter": 0.02064426517356477,
+      "P_cele_youtube": 0.23743094415241334,
+      "P_partner_twitter": 0.1706795677120246,
+      "P_partner_youtube": 0.4338961211610231
+    },
+    "P_cele_twitter_stats": {
+      "mean": 12.832391098245152,
+      "std": 1.5021903332197428,
+      "missing_rate": 0.3422243391283639
+    },
+    "missing_cele_twitter_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.3422243391283639
+    },
+    "P_cele_youtube_stats": {
+      "mean": 13.144707849410816,
+      "std": 1.6624623031034456,
+      "missing_rate": 0.8518694927363658
+    },
+    "missing_cele_youtube_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.8518694927363658
+    },
+    "P_partner_twitter_stats": {
+      "mean": 11.908643148662874,
+      "std": 1.2015216613989441,
+      "missing_rate": 0.4470111931412241
+    },
+    "missing_partner_twitter_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.4470111931412241
+    },
+    "P_partner_youtube_stats": {
+      "mean": 10.780877934767412,
+      "std": 1.0022227982575769,
+      "missing_rate": 0.913312693498452
+    },
+    "missing_partner_youtube_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.913312693498452
+    },
+    "P_cele_instagram_stats": {
+      "mean": 14.878420737138505,
+      "std": 2.0871177875582068,
+      "missing_rate": 0.9857108835437008
+    },
+    "missing_cele_instagram_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.9857108835437008
+    },
+    "P_cele_tiktok_stats": {
+      "mean": 18.18743630428531,
+      "std": 0.7007906836270601,
+      "missing_rate": 0.9952369611812336
+    },
+    "missing_cele_tiktok_stats": {
+      "mean": 0.0,
+      "std": 0.0,
+      "missing_rate": 0.9952369611812336
+    }
+  }
+}

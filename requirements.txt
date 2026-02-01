@@ -5,3 +5,6 @@ arviz
 pytensor
 pyyaml
 matplotlib
+statsmodels
+openpyxl
+tqdm
