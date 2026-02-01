@@ -1,0 +1,422 @@
+season,celebrity_name,ballroom_partner,celebrity_total_followers_wikidata,partner_total_followers_wikidata,P_cele,P_partner,missing_cele_total,missing_partner_total
+1,Evander Holyfield,Edyta Sliwinska,298359.0,,12.6060560900691,,False,True
+1,Joey McIntyre,Ashly DelGrosso,360228.0,3018.0,12.794495219310487,8.012680929706839,False,False
+1,John O'Hurley,Charlotte Jorgensen,22469.0,,10.019936365179374,,False,True
+1,Kelly Monaco,Alec Mazo,214057.0,,12.274002285319908,,False,True
+1,Rachel Hunter,Jonathan Roberts,20219.0,,9.914427492574463,,False,True
+1,Trista Sutter,Louis van Amstel,124677.0,67867.0,11.733489692687487,11.12531992116283,False,False
+2,Drew Lachey,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+2,George Hamilton,Edyta Sliwinska,,,,,True,True
+2,Giselle Fernandez,Jonathan Roberts,,,,,True,True
+2,Jerry Rice,Anna Trebunskaya,695228.0,,13.451996566677789,,False,True
+2,Kenny Mayne,Andrea Hale,,,,,True,True
+2,Lisa Rinna,Louis van Amstel,654728.0,67867.0,13.391976688545174,11.12531992116283,False,False
+2,Master P,Ashly DelGrosso,199764.0,3018.0,12.204896954676451,8.012680929706839,False,False
+2,Stacy Keibler,Tony Dovolani,382482.0,,12.854439486816599,,False,True
+2,Tatum O'Neal,Nick Kosovich,,,,,True,True
+2,Tia Carrere,Maksim Chmerkoskiy,37994.0,,10.545209851103886,,False,True
+3,Emmitt Smith,Cheryl Burke,783072.0,380112.0,13.570981201789381,12.848223855918395,False,False
+3,Harry Hamlin,Ashly DelGrosso,,3018.0,,8.012680929706839,True,False
+3,Jerry Springer,Kym Johnson,89881.0,,11.406252977943106,,False,True
+3,Joey Lawrence,Edyta Sliwinska,,,,,True,True
+3,Mario Lopez,Karina Smirnoff,1332162.0,242304.0,14.102314494967956,12.39795254216744,False,False
+3,Monique Coleman,Louis van Amstel,422803.0,67867.0,12.954663993671405,11.12531992116283,False,False
+3,Sara Evans,Tony Dovolani,,,,,True,True
+3,Shanna Moakler,Jesse DeSoto,135346.0,,11.815597130038771,,False,True
+3,Tucker Carlson,Elena Grinenko,7747122.0,,15.86283210660172,,False,True
+3,Vivica A. Fox,Nick Kosovich,659698.0,,13.39953894936928,,False,True
+3,Willa Ford,Maksim Chmerkoskiy,24099.0,,10.089967119478747,,False,True
+4,Apolo Anton Ohno,Julianne Hough,256307.0,1180337.0,12.454135125286806,13.981311396103514,False,False
+4,Billy Ray Cyrus,Karina Smirnoff,1567767.0,242304.0,14.265163509761777,12.39795254216744,False,False
+4,Clyde Drexler,Elena Grinenko,,,,,True,True
+4,Heather Mills,Jonathan Roberts,,,,,True,True
+4,Ian Ziering,Cheryl Burke,98661.0,380112.0,11.499455146222237,12.848223855918395,False,False
+4,Joey Fatone,Kym Johnson,197993.0,,12.195992006187224,,False,True
+4,John Ratzenberger,Edyta Sliwinska,,,,,True,True
+4,Laila Ali,Maksim Chmerkoskiy,136010.0,,11.82049104380033,,False,True
+4,Leeza Gibbons,Tony Dovolani,,,,,True,True
+4,Paulina Porizkova,Alec Mazo,113299.0,,11.637794447016098,,False,True
+4,Shandi Finnessey,Brian Fortuna,11774.0,,9.373733918884618,,False,True
+5,Albert Reed,Anna Trebunskaya,,,,,True,True
+5,Cameron Mathison,Edyta Sliwinska,,,,,True,True
+5,Floyd Mayweather Jr.,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+5,Helio Castroneves,Julianne Hough,171899.0,1180337.0,12.05466819137094,13.981311396103514,False,False
+5,Jane Seymour,Tony Dovolani,,,,,True,True
+5,Jennie Garth,Derek Hough,287138.0,882913.0,12.567721698053903,13.690983079599384,False,False
+5,Josie Maran,Alec Mazo,40621.0,,10.61206507075143,,False,True
+5,Marie Osmond,Jonathan Roberts,240551.0,,12.390691561372812,,False,True
+5,Mark Cuban,Kym Johnson,8891912.0,,16.000652769942786,,False,True
+5,Mel B,Maksim Chmerkoskiy,,,,,True,True
+5,Sabrina Bryan,Mark Ballas,64454.0,,11.073722584877205,,False,True
+5,Wayne Newton,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+6,Adam Carolla,Julianne Hough,779874.0,1180337.0,13.566888929413087,13.981311396103514,False,False
+6,Cristian de la Fuente,Cheryl Burke,639108.0,380112.0,13.367830297842458,12.848223855918395,False,False
+6,Jason Taylor,Edyta Sliwinska,,,,,True,True
+6,Kristi Yamaguchi,Mark Ballas,59350.0,,10.99122424909553,,False,True
+6,Mario,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+6,Marissa Jaret Winokur,Tony Dovolani,71770.0,,11.181235773725405,,False,True
+6,Marlee Matlin,Fabian Sanchez,410307.0,,12.92466337616854,,False,True
+6,Monica Seles,Jonathan Roberts,33927.0,,10.431995911154427,,False,True
+6,Penn Jillette,Kym Johnson,1695520.0,,14.343500626198052,,False,True
+6,Priscilla Presley,Louis van Amstel,,67867.0,,11.12531992116283,True,False
+6,Shannon Elizabeth,Derek Hough,563212.0,882913.0,13.24141316594594,13.690983079599384,False,False
+6,Steve Guttenberg,Anna Trebunskaya,31498.0,,10.357711078278063,,False,True
+7,Brooke Burke,Derek Hough,2789829.0,882913.0,14.841491220041483,13.690983079599384,False,False
+7,Cloris Leachman,Corky Ballas,72620.0,,11.193009415184726,,False,True
+7,Cody Linley,Julianne Hough,125810.0,1180337.0,11.742536059807348,13.981311396103514,False,False
+7,Jeffrey Ross,Edyta Sliwinska,,,,,True,True
+7,Kim Kardashian,Mark Ballas,75962090.0,,18.14574497117561,,False,True
+7,Lance Bass,Lacey Schwimmer,422040.0,137186.0,12.952857744696876,11.82910023759806,False,False
+7,Maurice Greene,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+7,Misty May-Treanor,Maksim Chmerkoskiy,149046.0,,11.912016971429654,,False,True
+7,Rocco DiSpirito,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+7,Susan Lucci,Tony Dovolani,65422.0,,11.088629157576872,,False,True
+7,Ted McGinley,Inna Brayer,,,,,True,True
+7,Toni Braxton,Alec Mazo,4567960.0,,15.334577492628297,,False,True
+7,Warren Sapp,Kym Johnson,1028202.0,,13.843323176319572,,False,True
+8,Belinda Carlisle,Jonathan Roberts,409656.0,,12.923075503181808,,False,True
+8,Chuck Wicks,Julianne Hough,,1180337.0,,13.981311396103514,True,False
+8,David Alan Grier,Kym Johnson,176765.0,,12.082582102999877,,False,True
+8,Denise Richards,Maksim Chmerkoskiy,2131867.0,,14.57250914865508,,False,True
+8,Gilles Marini,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+8,Holly Madison,Dmitry Chaplin,1278346.0,22890.0,14.061078395062147,10.038499099192006,False,False
+8,Lawrence Taylor,Edyta Sliwinska,,,,,True,True
+8,Lil' Kim,Derek Hough,2369686.0,882913.0,14.678268436879083,13.690983079599384,False,False
+8,Melissa Rycroft,Tony Dovolani,,,,,True,True
+8,Shawn Johnson,Mark Ballas,,,,,True,True
+8,Steve Wozniak,Karina Smirnoff,665791.0,242304.0,13.408732588430567,12.39795254216744,False,False
+8,Steve-O,Lacey Schwimmer,8326336.0,137186.0,15.934934181536486,11.82910023759806,False,False
+8,Ty Murray,Chelsie Hightower,,126882.0,,11.751020680977549,True,False
+9,Aaron Carter,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+9,Ashley Hamiliton,Edyta Sliwinska,,,,,True,True
+9,Chuck Liddell,Anna Trebunskaya,812652.0,,13.608059483150669,,False,True
+9,Debi Mazar,Maksim Chmerkoskiy,,,,,True,True
+9,Donny Osmond,Kym Johnson,210377.0,,12.256661191640985,,False,True
+9,Joanna Krupa,Derek Hough,804085.0,882913.0,13.597461507614867,13.690983079599384,False,False
+9,Kathy Ireland,Tony Dovolani,260300.0,,12.469593932696368,,False,True
+9,Kelly Osbourne,Louis van Amstel,3338746.0,67867.0,15.021106144866032,11.12531992116283,False,False
+9,Louie Vito,Chelsie Hightower,,126882.0,,11.751020680977549,True,False
+9,Macy Gray,Jonathan Roberts,309258.0,,12.641934392499005,,False,True
+9,Mark Dacascos,Lacey Schwimmer,,137186.0,,11.82910023759806,True,False
+9,Melissa Joan Hart,Mark Ballas,636544.0,,13.363810393616431,,False,True
+9,Michael Irvin,Anna Demidova,732161.0,,13.503757079933086,,False,True
+9,Mya,Dmitry Chaplin,,22890.0,,10.038499099192006,True,False
+9,Natalie Coughlin,Alec Mazo,108290.0,,11.592577327042804,,False,True
+9,Tom DeLay,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+10,Aiden Turner,Edyta Sliwinska,16929.0,,9.736842475127181,,False,True
+10,Buzz Aldrin,Ashly DelGrosso,1579061.0,3018.0,14.272341557824737,8.012680929706839,False,False
+10,Chad Ochocinco,Cheryl Burke,3281989.0,380112.0,15.003960503704922,12.848223855918395,False,False
+10,Erin Andrews,Maksim Chmerkoskiy,2660374.0,,14.793977648265106,,False,True
+10,Evan Lysacek,Anna Trebunskaya,50294.0,,10.825660947568439,,False,True
+10,Jake Pavelka,Chelsie Hightower,,126882.0,,11.751020680977549,True,False
+10,Kate Gosselin,Tony Dovolani,210681.0,,12.258105166622325,,False,True
+10,Nicole Scherzinger,Derek Hough,6063165.0,882913.0,15.617742663864286,13.690983079599384,False,False
+10,Niecy Nash,Louis van Amstel,452178.0,67867.0,13.02183339811917,11.12531992116283,False,False
+10,Pamela Anderson,Damian Whitewood,1087742.0,7648.0,13.899615465259991,8.942330199321866,False,False
+10,Shannen Doherty,Mark Ballas,590505.0,,13.288735075448542,,False,True
+11,Audrina Patridge,Tony Dovolani,1924649.0,,14.470254690991274,,False,True
+11,Brandy,Maksim Chmerkoskiy,,,,,True,True
+11,Bristol Palin,Mark Ballas,,,,,True,True
+11,David Hasselhoff,Kym Johnson,597201.0,,13.300010693603387,,False,True
+11,Florence Henderson,Corky Ballas,,,,,True,True
+11,Jennifer Grey,Derek Hough,105907.0,882913.0,11.570326071701333,13.690983079599384,False,False
+11,Kurt Warner,Anna Trebunskaya,630120.0,,13.353667143417947,,False,True
+11,Kyle Massey,Lacey Schwimmer,135900.0,137186.0,11.819681958463892,11.82910023759806,False,False
+11,Margaret Cho,Louis van Amstel,739271.0,67867.0,13.513421197163689,11.12531992116283,False,False
+11,Michael Bolton,Chelsie Hightower,,126882.0,,11.751020680977549,True,False
+11,Rick Fox,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+11,The Situation,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+12,Chelsea Kane,Mark Ballas,,,,,True,True
+12,Chris Jericho,Cheryl Burke,3848426.0,380112.0,15.163175051347348,12.848223855918395,False,False
+12,Hines Ward,Kym Johnson,491220.0,,13.104649407344207,,False,True
+12,Kendra Wilkinson,Louis van Amstel,2211440.0,67867.0,14.609154897209788,11.12531992116283,False,False
+12,Kirstie Alley,Maksim Chmerkoskiy,1577810.0,,14.271549001351616,,False,True
+12,Mike Catherwood,Lacey Schwimmer,42592.0,137186.0,10.659445199506749,11.82910023759806,False,False
+12,Petra Nemcova,Dmitry Chaplin,44631.0,22890.0,10.706206369525365,10.038499099192006,False,False
+12,Ralph Macchio,Karina Smirnoff,358610.0,242304.0,12.789993514529332,12.39795254216744,False,False
+12,Romeo,Chelsie Hightower,,126882.0,,11.751020680977549,True,False
+12,Sugar Ray Leonard,Anna Trebunskaya,270712.0,,12.508814498091702,,False,True
+12,Wendy Williams,Tony Dovolani,,,,,True,True
+13,Carson Kressley,Anna Trebunskaya,,,,,True,True
+13,Chaz Bono,Lacey Schwimmer,150383.0,137186.0,11.920947301860082,11.82910023759806,False,False
+13,Chynna Phillips,Tony Dovolani,,,,,True,True
+13,David Arquette,Kym Johnson,80515.0,,11.296211201420922,,False,True
+13,Elisabetta Canalis,Valentin Chmerkovskiy,1463328.0,299226.0,14.196224535103234,12.608957761652729,False,False
+13,Hope Solo,Maksim Chmerkoskiy,1069360.0,,13.882571831783691,,False,True
+13,J.R. Martinez,Karina Smirnoff,49111.0,242304.0,10.801858683107332,12.39795254216744,False,False
+13,Kristin Cavallari,Mark Ballas,1014942.0,,13.830343011245658,,False,True
+13,Metta World Peace (Ron),Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+13,Nancy Grace,Tristan MacManus,,,,,True,True
+13,Ricki Lake,Derek Hough,236899.0,882913.0,12.375393390146877,13.690983079599384,False,False
+13,Rob Kardashian,Cheryl Burke,7177195.0,380112.0,15.78641933550009,12.848223855918395,False,False
+14,Donald Driver,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+14,Gavin DeGraw,Karina Smirnoff,708179.0,242304.0,13.47045357765117,12.39795254216744,False,False
+14,Gladys Knight,Tristan MacManus,434074.0,,12.980972609212339,,False,True
+14,Jack Wagner,Anna Trebunskaya,,,,,True,True
+14,Jaleel White,Kym Johnson,116699.0,,11.667361818274648,,False,True
+14,Katherine Jenkins,Mark Ballas,355258.0,,12.78060237991008,,False,True
+14,Maria Menounos,Derek Hough,617139.0,882913.0,13.332851181524633,13.690983079599384,False,False
+14,Martina Navratilova,Tony Dovolani,447000.0,,13.010316110729669,,False,True
+14,Melissa Gilbert,Maksim Chmerkoskiy,168539.0,,12.034928389326344,,False,True
+14,Roshon Fegan,Chelsie Hightower,337741.0,126882.0,12.730037569383523,11.751020680977549,False,False
+14,Sherri Sheperd,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+14,William Levy,Cheryl Burke,2962166.0,380112.0,14.90143165304431,12.848223855918395,False,False
+15,Apolo Anton Ohno,Karina Smirnoff,256307.0,242304.0,12.454135125286806,12.39795254216744,False,False
+15,Bristol Palin,Mark Ballas,,,,,True,True
+15,Drew Lachey,Anna Trebunskaya,,,,,True,True
+15,Emmitt Smith,Cheryl Burke,783072.0,380112.0,13.570981201789381,12.848223855918395,False,False
+15,Gilles Marini,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+15,Helio Castroneves,Chelsie Hightower,171899.0,126882.0,12.05466819137094,11.751020680977549,False,False
+15,Joey Fatone,Kym Johnson,197993.0,,12.195992006187224,,False,True
+15,Kelly Monaco,Valentin Chmerkovskiy,214057.0,299226.0,12.274002285319908,12.608957761652729,False,False
+15,Kirstie Alley,Maksim Chmerkoskiy,1577810.0,,14.271549001351616,,False,True
+15,Melissa Rycroft,Tony Dovolani,,,,,True,True
+15,Pamela Anderson,Tristan MacManus,1087742.0,,13.899615465259991,,False,True
+15,Sabrina Bryan,Louis van Amstel,64454.0,67867.0,11.073722584877205,11.12531992116283,False,False
+15,Shawn Johnson,Derek Hough,,882913.0,,13.690983079599384,True,False
+16,Alexandra Raisman,Mark Ballas,1021915.0,,13.837189854587036,,False,True
+16,Andy Dick,Sharna Burgess,131313.0,162313.0,11.785346680653955,11.997288009794824,False,False
+16,D. L. Hughley,Cheryl Burke,761394.0,380112.0,13.542907556058434,12.848223855918395,False,False
+16,Dorothy Hamill,Tristan MacManus,,,,,True,True
+16,Ingo Rademacher,Kym Johnson,,,,,True,True
+16,Jacoby Jones,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+16,Kellie Pickler,Derek Hough,1329007.0,882913.0,14.099943357240846,13.690983079599384,False,False
+16,Lisa Vanderpump,Gleb Savchenko,1800000.0,64840.0,14.403297778421795,11.07969339830934,False,False
+16,Sean Lowe,Peta Murgatroyd,878358.0,213109.0,13.68581067287392,12.269563743311371,False,False
+16,Victor Ortiz,Lindsay Arnold,112716.0,117473.0,11.632635531598089,11.673972311485327,False,False
+16,Wynonna Judd,Tony Dovolani,128062.0,,11.760277609317216,,False,True
+16,Zendaya,Valentin Chmerkovskiy,145262565.0,299226.0,18.794053462863047,12.608957761652729,False,False
+17,Amber Riley,Derek Hough,,882913.0,,13.690983079599384,True,False
+17,Bill Engvall,Emma Slater,,,,,True,True
+17,Bill Nye,Tyne Stecklein,5964504.0,6423.0,15.601336625997021,8.767796255626598,False,False
+17,Brant Daugherty,Peta Murgatroyd,337046.0,213109.0,12.727977665485408,12.269563743311371,False,False
+17,Christina Milian,Mark Ballas,1662788.0,,14.324006870991132,,False,True
+17,Corbin Bleu,Karina Smirnoff,790710.0,242304.0,13.580687819686041,12.39795254216744,False,False
+17,Elizabeth Berkley Lauren,Valentin Chmerkovskiy,133189.0,299226.0,11.799531959195075,12.608957761652729,False,False
+17,Jack Osbourne,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+17,Keyshawn Johnson,Sharna Burgess,,162313.0,,11.997288009794824,True,False
+17,Leah Remini,Tony Dovolani,828481.0,,13.627350389601878,,False,True
+17,"Nicole ""Snooki"" Polizzi",Sasha Farber,5943724.0,85392.0,15.597846599168149,11.35501940920405,False,False
+17,Valerie Harper,Tristan MacManus,,,,,True,True
+18,Amy Purdy,Derek Hough,61953.0,882913.0,11.034147453173013,13.690983079599384,False,False
+18,Billy Dee Williams,Emma Slater,231942.0,,12.354246930806626,,False,True
+18,Candace Cameron Bure,Mark Ballas,621422.0,,13.339767288452121,,False,True
+18,Charlie White,Sharna Burgess,92078.0,162313.0,11.43040218321516,11.997288009794824,False,False
+18,Cody Simpson,Witney Carson,7809568.0,169660.0,15.870860334633672,12.04155760748558,False,False
+18,Danica McKellar,Valentin Chmerkovskiy,153759.0,299226.0,11.94314822420412,12.608957761652729,False,False
+18,Diana Nyad,Henry Byalikov,38416.0,,10.55625534894273,,False,True
+18,Drew Carey,Cheryl Burke,563264.0,380112.0,13.241505489098344,12.848223855918395,False,False
+18,James Maslow,Peta Murgatroyd,3439243.0,213109.0,15.050762237755318,12.269563743311371,False,False
+18,Meryl Davis,Maksim Chmerkoskiy,141507.0,,11.860111531569741,,False,True
+18,NeNe Leakes,Tony Dovolani,2254865.0,,14.628601105649944,,False,True
+18,Sean Avery,Karina Smirnoff,,242304.0,,12.39795254216744,True,False
+19,Alfonso Ribeiro,Witney Carson,155603.0,169660.0,11.955069597336884,12.04155760748558,False,False
+19,Antonio Sabato Jr.,Cheryl Burke,619858.0,380112.0,13.337247311802733,12.848223855918395,False,False
+19,Bethany Mota,Derek Hough,14053293.0,882913.0,16.458367374663876,13.690983079599384,False,False
+19,Betsey Johnson,Tony Dovolani,405507.0,,12.91289588107296,,False,True
+19,Janel Parrish,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+19,Jonathan Bennett,Allison Holker,,,,,True,True
+19,Lea Thompson,Artem Chigvintsev,219108.0,186633.0,12.297324601873644,12.136904758728935,False,False
+19,Lolo Jones,Keo Motsepe,940457.0,,13.754122269628775,,False,True
+19,Michael Waltrip,Emma Slater,,,,,True,True
+19,Randy Couture,Karina Smirnoff,629656.0,242304.0,13.352930505659577,12.39795254216744,False,False
+19,Sadie Robertson,Mark Ballas,1703122.0,,14.34797418252113,,False,True
+19,Tavis Smiley,Sharna Burgess,307387.0,162313.0,12.635866072239434,11.997288009794824,False,False
+19,Tommy Chong,Peta Murgatroyd,545918.0,213109.0,13.210225892073495,12.269563743311371,False,False
+20,Charlotte McKinney,Keo Motsepe,141018.0,,11.85664991205515,,False,True
+20,Chris Soules,Witney Carson,,169660.0,,12.04155760748558,True,False
+20,Michael Sam,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+20,Nastia Liukin,Derek Hough,360789.0,882913.0,12.796051350600253,13.690983079599384,False,False
+20,Noah Galloway,Sharna Burgess,,162313.0,,11.997288009794824,True,False
+20,Patti LaBelle,Artem Chigvintsev,803327.0,186633.0,13.59651837777254,12.136904758728935,False,False
+20,Redfoo,Emma Slater,3702536.0,,15.124528818321965,,False,True
+20,Riker Lynch,Allison Holker,,,,,True,True
+20,Robert Herjavec,Kym Johnson,1133542.0,,13.94085868380789,,False,True
+20,Rumer Willis,Valentin Chmerkovskiy,256253.0,299226.0,12.453924419069022,12.608957761652729,False,False
+20,Suzanne Somers,Tony Dovolani,57295.0,,10.955986092238215,,False,True
+20,Willow Shields,Mark Ballas,218938.0,,12.296548431186713,,False,True
+21,Alek Skarlatos,Lindsay Arnold,35391.0,117473.0,10.474241084882006,11.673972311485327,False,False
+21,Alexa PenaVega,Mark Ballas,404047.0,,12.909288961766903,,False,True
+21,Andy Grammer,Allison Holker,145751.0,,11.88966182624552,,False,True
+21,Bindi Irwin,Derek Hough,775779.0,882913.0,13.561624253815532,13.690983079599384,False,False
+21,Carlos PenaVega,Witney Carson,2541094.0,169660.0,14.748105648459,12.04155760748558,False,False
+21,Chaka Khan,Keo Motsepe,985757.0,,13.801166167354925,,False,True
+21,Gary Busey,Anna Trebunskaya,,,,,True,True
+21,Hayes Grier,Emma Slater,4322963.0,,15.279451836064782,,False,True
+21,Kim Zolciak-Biermann,Tony Dovolani,1008788.0,,13.824261159528987,,False,True
+21,Nick Carter,Sharna Burgess,,162313.0,,11.997288009794824,True,False
+21,Paula Deen,Louis van Amstel,1185880.0,67867.0,13.98599651623756,11.12531992116283,False,False
+21,Tamar Braxton,Valentin Chmerkovskiy,2625795.0,299226.0,14.780894646135721,12.608957761652729,False,False
+21,Victor Espinoza,Karina Smirnoff,27054.0,242304.0,10.205627110076836,12.39795254216744,False,False
+22,Antonio Brown,Sharna Burgess,18208906.0,162313.0,16.717421427936447,11.997288009794824,False,False
+22,Doug Flutie,Karina Smirnoff,53930.0,242304.0,10.895460730714525,12.39795254216744,False,False
+22,Geraldo Rivera,Edyta Sliwinska,392264.0,,12.879692910781896,,False,True
+22,Ginger Zee,Valentin Chmerkovskiy,2276325.0,299226.0,14.638073297714795,12.608957761652729,False,False
+22,Jodie Sweetin,Keo Motsepe,351624.0,,12.770320545792158,,False,True
+22,Kim Fields,Sasha Farber,140834.0,85392.0,11.855344271360757,11.35501940920405,False,False
+22,Marla Maples,Tony Dovolani,27907.0,,10.236668665059128,,False,True
+22,Mischa Barton,Artem Chigvintsev,92074.0,186633.0,11.430358741313267,12.136904758728935,False,False
+22,Nyle DiMarco,Peta Murgatroyd,366931.0,213109.0,12.812931823765574,12.269563743311371,False,False
+22,Paige VanZant,Mark Ballas,1346897.0,,14.113314728694572,,False,True
+22,Von Miller,Witney Carson,,169660.0,,12.04155760748558,True,False
+22,Wanya Morris,Lindsay Arnold,,117473.0,,11.673972311485327,True,False
+23,Amber Rose,Maksim Chmerkoskiy,,,,,True,True
+23,Babyface,Allison Holker,,,,,True,True
+23,Calvin Johnson Jr.,Lindsay Arnold,,117473.0,,11.673972311485327,True,False
+23,Jake T. Austin,Jenna Johnson,2803618.0,79694.0,14.846421640586343,11.285962127553153,False,False
+23,James Hinchcliffe,Sharna Burgess,158285.0,162313.0,11.972158802286575,11.997288009794824,False,False
+23,Jana Kramer,Gleb Savchenko,898306.0,64840.0,13.708267159683876,11.07969339830934,False,False
+23,Laurie Hernandez,Valentin Chmerkovskiy,598540.0,299226.0,13.302250306228652,12.608957761652729,False,False
+23,Marilu Henner,Derek Hough,,882913.0,,13.690983079599384,True,False
+23,Maureen McCormick,Artem Chigvintsev,,186633.0,,12.136904758728935,True,False
+23,Rick Perry,Emma Slater,,,,,True,True
+23,Ryan Lochte,Cheryl Burke,914967.0,380112.0,13.726644370968504,12.848223855918395,False,False
+23,Terra Jole,Sasha Farber,75652.0,85392.0,11.233912374742173,11.35501940920405,False,False
+23,Vanilla Ice,Witney Carson,1451927.0,169660.0,14.188402886360555,12.04155760748558,False,False
+24,Bonner Bolton,Sharna Burgess,14694.0,162313.0,9.595262578853017,11.997288009794824,False,False
+24,Charo,Keo Motsepe,15071.0,,9.620593996816144,,False,True
+24,Chris Kattan,Witney Carson,66522.0,169660.0,11.105303031508205,12.04155760748558,False,False
+24,David Ross,Lindsay Arnold,,117473.0,,11.673972311485327,True,False
+24,Erika Jayne,Gleb Savchenko,507693.0,64840.0,13.137634182862895,11.07969339830934,False,False
+24,Heather Morris,Maksim Chmerkoskiy,,,,,True,True
+24,Mr. T,Kym Herjavec,360563.0,,12.795424751156999,,False,True
+24,Nancy Kerrigan,Artem Chigvintsev,,186633.0,,12.136904758728935,True,False
+24,Nick Viall,Peta Murgatroyd,297550.0,213109.0,12.603340917847051,12.269563743311371,False,False
+24,Normani,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+24,Rashad Jennings,Emma Slater,,,,,True,True
+24,Simone Biles,Sasha Farber,1704285.0,85392.0,14.348656812663364,11.35501940920405,False,False
+25,Barbara Corcoran,Keo Motsepe,739046.0,,13.513116797366706,,False,True
+25,Debbie Gibson,Alan Bersten,235492.0,64741.0,12.369436468005336,11.078165419805039,False,False
+25,Derek Fisher,Sharna Burgess,,162313.0,,11.997288009794824,True,False
+25,Drew Scott,Emma Slater,,,,,True,True
+25,Frankie Muniz,Witney Carson,333591.0,169660.0,12.717673968363837,12.04155760748558,False,False
+25,Jordan Fisher,Lindsay Arnold,899647.0,117473.0,13.709758854691438,11.673972311485327,False,False
+25,Lindsey Stirling,Mark Ballas,14791112.0,,16.50953708540527,,False,True
+25,Nick Lachey,Peta Murgatroyd,56700.0,213109.0,10.945547126244623,12.269563743311371,False,False
+25,Nikki Bella,Artem Chigvintsev,7038404.0,186633.0,15.766892139965064,12.136904758728935,False,False
+25,Sasha Pieterse,Gleb Savchenko,67900.0,64840.0,11.125806040978839,11.07969339830934,False,False
+25,Terrell Owens,Cheryl Burke,1391474.0,380112.0,14.145874893563189,12.848223855918395,False,False
+25,Vanessa Lachey,Maksim Chmerkoskiy,150838.0,,11.923968321809083,,False,True
+25,Victoria Arlen,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+26,Adam Rippon,Jenna Johnson,576837.0,79694.0,13.265316743504057,11.285962127553153,False,False
+26,Arike Ogunbowale,Gleb Savchenko,43775.0,64840.0,10.686841000982222,11.07969339830934,False,False
+26,Chris Mazdzer,Witney Carson,17519.0,169660.0,9.771098364490383,12.04155760748558,False,False
+26,Jamie Anderson,Artem Chigvintsev,,186633.0,,12.136904758728935,True,False
+26,Jennie Finch Daigle,Keo Motsepe,165191.0,,12.01486371274631,,False,True
+26,Johnny Damon,Emma Slater,,,,,True,True
+26,Josh Norman,Sharna Burgess,186591.0,162313.0,12.136679694021883,11.997288009794824,False,False
+26,Kareem Abdul-Jabbar,Lindsay Arnold,2242496.0,117473.0,14.623100535121552,11.673972311485327,False,False
+26,Mirai Nagasu,Alan Bersten,93295.0,64741.0,11.443532513461937,11.078165419805039,False,False
+26,Tonya Harding,Sasha Farber,,85392.0,,11.35501940920405,True,False
+27,Alexis Ren,Alan Bersten,2525641.0,64741.0,14.7420058457994,11.078165419805039,False,False
+27,Bobby Bones,Sharna Burgess,941409.0,162313.0,13.755134030369922,11.997288009794824,False,False
+27,Danelle Umstead,Artem Chigvintsev,3137.0,186633.0,8.051340933292979,12.136904758728935,False,False
+27,DeMarcus Ware,Lindsay Arnold,766734.0,117473.0,13.54989651869417,11.673972311485327,False,False
+27,Evanna Lynch,Keo Motsepe,1181183.0,,13.982027883213261,,False,True
+27,Joe Amabile,Jenna Johnson,101759.0,79694.0,11.530372378573949,11.285962127553153,False,False
+27,John Schneider,Emma Slater,70833.0,,11.168094390398915,,False,True
+27,Juan Pablo Di Pace,Cheryl Burke,46789.0,380112.0,10.753424783860263,12.848223855918395,False,False
+27,Mary Lou Retton,Sasha Farber,,85392.0,,11.35501940920405,True,False
+27,Milo Manheim,Witney Carson,81434.0,169660.0,11.30756043500766,12.04155760748558,False,False
+27,Nancy McKeon,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+27,Nikki Glaser,Gleb Savchenko,616189.0,64840.0,13.33131063651578,11.07969339830934,False,False
+27,Tinashe,Brandon Armstrong,3293768.0,,15.00754305975612,,False,True
+28,Ally Brooke,Sasha Farber,3080836.0,85392.0,14.940711871278285,11.35501940920405,False,False
+28,Hannah Brown,Alan Bersten,,64741.0,,11.078165419805039,True,False
+28,James Van Der Beek,Emma Slater,263127.0,,12.480395884778964,,False,True
+28,Karamo Brown,Jenna Johnson,423817.0,79694.0,12.957059396778948,11.285962127553153,False,False
+28,Kate Flannery,Pasha Pashkov,314456.0,2721.0,12.65860262081467,7.909122183211411,False,False
+28,Kel Mitchell,Witney Carson,120138.0,169660.0,11.69640468474707,12.04155760748558,False,False
+28,Lamar Odom,Peta Murgatroyd,3607877.0,213109.0,15.098630345845725,12.269563743311371,False,False
+28,Lauren Alaina,Gleb Savchenko,,64840.0,,11.07969339830934,True,False
+28,Mary Wilson,Brandon Armstrong,,,,,True,True
+28,Ray Lewis,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+28,Sailor Brinkley-Cook,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+28,Sean Spicer,Lindsay Arnold,667843.0,117473.0,13.41180989231159,11.673972311485327,False,False
+29,AJ McLean,Cheryl Burke,463016.0,380112.0,13.045519049456951,12.848223855918395,False,False
+29,Anne Heche,Keo Motsepe,18304.0,,9.814929525554337,,False,True
+29,Carole Baskin,Pasha Pashkov,,2721.0,,7.909122183211411,True,False
+29,Charles Oakley,Emma Slater,,,,,True,True
+29,Chrishell Stause,Gleb Savchenko,143740.0,64840.0,11.87576834800394,11.07969339830934,False,False
+29,Jeannie Mai,Brandon Armstrong,1048313.0,,13.86269371730713,,False,True
+29,Jesse Metcalfe,Sharna Burgess,190215.0,162313.0,12.155915547532238,11.997288009794824,False,False
+29,Johnny Weir,Britt Stewart,375316.0,,12.835526281192887,,False,True
+29,Justina Machado,Sasha Farber,72004.0,85392.0,11.184490840031483,11.35501940920405,False,False
+29,Kaitlyn Bristowe,Artem Chigvintsev,454401.0,186633.0,13.026737547787842,12.136904758728935,False,False
+29,Monica Aldama,Valentin Chmerkovskiy,49475.0,299226.0,10.8092429824949,12.608957761652729,False,False
+29,Nelly,Daniella Karagach,,,,,True,True
+29,Nev Schulman,Jenna Johnson,,79694.0,,11.285962127553153,True,False
+29,Skai Jackson,Alan Bersten,2383819.0,64741.0,14.68421480096115,11.078165419805039,False,False
+29,Veron Davis,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+30,Amanda Kloots,Alan Bersten,,64741.0,,11.078165419805039,True,False
+30,Brian Austin Green,Sharna Burgess,,162313.0,,11.997288009794824,True,False
+30,Christine Chiu,Pasha Pashkov,,2721.0,,7.909122183211411,True,False
+30,Cody Rigsby,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+30,Iman Shumpert,Daniella Karagach,658986.0,,13.39845908643119,,False,True
+30,Jimmie Allen,Emma Slater,405226.0,,12.91220268289784,,False,True
+30,JoJo Siwa,Jenna Johnson,52767054.0,79694.0,17.781397595600144,11.285962127553153,False,False
+30,Kenya Moore,Brandon Armstrong,725672.0,,13.494854779117288,,False,True
+30,Martin Kove,Britt Stewart,,,,,True,True
+30,Matt James,Lindsay Arnold,,117473.0,,11.673972311485327,True,False
+30,Melanie C,Gleb Savchenko,1831959.0,64840.0,14.420896989916711,11.07969339830934,False,False
+30,Melora Hardin,Artem Chigvintsev,47921.0,186633.0,10.777329968145445,12.136904758728935,False,False
+30,"Mike ""The Miz"" Mizanin",Witney Carson,3228492.0,169660.0,14.987526022856747,12.04155760748558,False,False
+30,Olivia Jade,Valentin Chmerkovskiy,1976987.0,299226.0,14.4970850323316,12.608957761652729,False,False
+30,Suni Lee,Sasha Farber,180423.0,85392.0,12.103064915455944,11.35501940920405,False,False
+31,Charli D'Amelio,Mark Ballas,170895554.0,,18.95656313838537,,False,True
+31,Cheryl Ladd,Louis van Amstel,20852.0,67867.0,9.945253101768596,11.12531992116283,False,False
+31,Daniel Durant,Britt Stewart,13782.0,,9.531191227694439,,False,True
+31,Gabby Windey,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+31,Heidi D'Amelio,Artem Chigvintsev,573919.0,186633.0,13.26024529276611,12.136904758728935,False,False
+31,Jason Lewis,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+31,Jessie James Decker,Alan Bersten,809281.0,64741.0,13.603902713793227,11.078165419805039,False,False
+31,Jordin Sparks,Brandon Armstrong,3538570.0,,15.079233531295971,,False,True
+31,Joseph Baena,Daniella Karagach,,,,,True,True
+31,Sam Champion,Cheryl Burke,,380112.0,,12.848223855918395,True,False
+31,Selma Blair,Sasha Farber,172728.0,85392.0,12.059479171288299,11.35501940920405,False,False
+31,Shangela,Gleb Savchenko,,64840.0,,11.07969339830934,True,False
+31,Teresa Giudice,Pasha Pashkov,1032419.0,2721.0,13.847416118975259,7.909122183211411,False,False
+31,Trevor Donovan,Emma Slater,157856.0,,11.969444838900891,,False,True
+31,Vinny Guadagnino,Koko Iwasaki,2772774.0,,14.83535918174588,,False,True
+31,Wayne Brady,Witney Carson,391437.0,169660.0,12.877582416610078,12.04155760748558,False,False
+32,Adrian Peterson,Britt Stewart,,,,,True,True
+32,Alyson Hannigan,Sasha Farber,1089583.0,85392.0,13.901306529981758,11.35501940920405,False,False
+32,Ariana Madix,Pasha Pashkov,,2721.0,,7.909122183211411,True,False
+32,Barry Williams,Peta Murgatroyd,,213109.0,,12.269563743311371,True,False
+32,Charity Lawson,Artem Chigvintsev,,186633.0,,12.136904758728935,True,False
+32,Harry Jowsey,Rylee Arnold,,,,,True,True
+32,Jamie Lynn Spears,Alan Bersten,629962.0,64741.0,13.353416366484302,11.078165419805039,False,False
+32,Jason Mraz,Daniella Karagach,8941447.0,,16.006208102714275,,False,True
+32,Lele Pons,Brandon Armstrong,19825265.0,,16.802467742797443,,False,True
+32,Matt Walsh,Koko Iwasaki,153724.0,,11.94292057082167,,False,True
+32,Mauricio Umansky,Emma Slater,253677.0,,12.44382102523287,,False,True
+32,Mira Sorvino,Gleb Savchenko,188469.0,64840.0,12.146694122010674,11.07969339830934,False,False
+32,Tyson Beckford,Jenna Johnson,,79694.0,,11.285962127553153,True,False
+32,Xochitl Gomez,Valentin Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+33,Anna Delvey,Ezra Sosa,35795.0,,10.48559143430275,,False,True
+33,Brooks Nader,Gleb Savchenko,,64840.0,,11.07969339830934,True,False
+33,Chandler Kinney,Brandon Armstrong,29604.0,,10.295698544965877,,False,True
+33,Danny Amendola,Witney Carson,404538.0,169660.0,12.91050342616059,12.04155760748558,False,False
+33,Dwight Howard,Daniella Karagach,6346506.0,,15.663415140779902,,False,True
+33,Eric Roberts,Britt Stewart,47896.0,,10.77680815095747,,False,True
+33,Ilona Maher,Alan Bersten,,64741.0,,11.078165419805039,True,False
+33,Jenn Tran,Sasha Farber,,85392.0,,11.35501940920405,True,False
+33,Joey Graziadei,Jenna Johnson,,79694.0,,11.285962127553153,True,False
+33,Phaedra Parks,Val Chmerkovskiy,,299226.0,,12.608957761652729,True,False
+33,Reginald VelJohnson,Emma Slater,,,,,True,True
+33,Stephen Nedoroscik,Rylee Arnold,,,,,True,True
+33,Tori Spelling,Pasha Pashkov,1773798.0,2721.0,14.388634132162913,7.909122183211411,False,False
+34,Alix Earle,Val Chmerkovskiy (Joey Graziadei week 9),265000.0,,12.487488878546145,,False,True
+34,Andy Richter,Emma Slater/Kaitlyn Bristowe (week 9),1068357.0,,13.88163344832581,,False,True
+34,Baron Davis,Britt Stewart,1040511.0,,13.85522345766619,,False,True
+34,Corey Feldman,Jenna Johnson,165459.0,79694.0,12.016484752744175,11.285962127553153,False,False
+34,Danielle Fishel,Pasha Pashkov,327068.0,2721.0,12.697926436794397,7.909122183211411,False,False
+34,Dylan Efron,Daniella Karagach (Rumer Willis week 9),,,,,True,True
+34,Elaine Hendrix,Alan Bersten (Rashad Jennings week 9),,,,,True,True
+34,Hilaria Baldwin,Gleb Savchenko,,64840.0,,11.07969339830934,True,False
+34,Jen Affleck,Jan Ravnik,,,,,True,True
+34,Jordan Chiles,Ezra Sosa (Apolo Anton Ohno week 9),46414.0,,10.745377961834032,,False,True
+34,Lauren Jauregui,Brandon Armstrong,5336896.0,,15.49015495589807,,False,True
+34,Robert Irwin,Witney Carson (Xoshitl Gomez week 9),597288.0,,13.300156362344556,,False,True
+34,Scott Hoying,Rylee Arnold,860644.0,,13.665437387120237,,False,True
+34,Whitney Leavitt,Mark Ballas,,,,,True,True

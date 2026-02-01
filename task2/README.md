@@ -123,6 +123,7 @@ python code/scripts/task2_run_simulation.py --config code/task2/config/task2_ful
 ```
 
 输出：`outputs/task2/run_YYYYMMDD_HHMMSS/` 下的
+
 - `trajectories_{mode}_{mechanism}.npz`
 - `week_stats_{mode}_{mechanism}.csv`
 - `config.json`
@@ -136,6 +137,7 @@ python code/scripts/task2_postprocess.py --run outputs/task2/run_20260201_112324
 ```
 
 输出：
+
 - `task2_report.json`
 - `season_summary.csv`
 - `ite_ate.csv`
@@ -152,6 +154,8 @@ python code/scripts/task2_sensitivity.py --config code/task2/config/task2_full.j
 ```
 
 之后对生成的配置批量运行模拟。
+
+python code/scripts/task2_postprocess.py --run outputs/task2/run_20260201_112324 --social "2026美赛C题最新补充数据+预处理后数据！！！适合模型检验+提高结果准确度！/2026美赛C题补充数据集！.xlsx"
 
 ---
 
@@ -170,13 +174,14 @@ python code/scripts/task2_sensitivity.py --config code/task2/config/task2_full.j
 ## 8. 常见问题
 
 1) **Mode B 无法运行？**
-   - 若 Task1 输出没有 `mu/gamma/epsilon`，将自动走 Mode A 逻辑替代。
 
+   - 若 Task1 输出没有 `mu/gamma/epsilon`，将自动走 Mode A 逻辑替代。
 2) **图片是空白？**
+
    - 当前 `viz/` 提供的是占位图，保证流程的结构对接。
    - 请在 `code/task2/viz/*.py` 中替换为真实绘图。
-
 3) **Conda 环境乱码（GBK 编码）？**
+
    - 本流程不依赖 conda，直接 `python` 运行即可。
 
 ---
