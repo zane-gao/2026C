@@ -1,0 +1,46 @@
+﻿{
+  "paths": {
+    "data_csv": "2026_MCM_Problem_C_Data.csv",
+    "task1_artifact": "code/task1/outputs/results",
+    "output_dir": "outputs"
+  },
+  "runtime": {
+    "device": "cpu",
+    "dtype": "float32",
+    "seed": 42,
+    "num_workers": 0
+  },
+  "simulation": {
+    "K": 200,
+    "modes": ["A"],
+    "mechanisms": ["P", "R", "JS"],
+    "max_week": 11,
+    "tie_mode": "average",
+    "topk_jaccard": 3,
+    "topk_final": 3,
+    "controversy_q": 0.2,
+    "soft_percent": false,
+    "soft_rank": false
+  },
+  "skill": {
+    "model": "linear",
+    "sigma_J": 1.0,
+    "J_max_policy": "max_obs",
+    "std_match": true,
+    "lambda_min": 0.1,
+    "lambda_max": 6.0,
+    "lambda_iters": 30
+  },
+  "judges_save": {
+    "bottom2_base": "rank",
+    "eta1": 1.0,
+    "eta2": 0.5,
+    "deterministic": false,
+    "strength_grid": [0.5, 1.0, 2.0, 4.0]
+  },
+  "mixture": {
+    "w_grid": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+    "kappa": 20.0,
+    "kappa_r": 10.0
+  }
+}
